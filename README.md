@@ -1,7 +1,7 @@
-# Coursera_Capstone
-Repository to store 3 Jupyter notebooks as submissions for the  Applied Data Science Capstone course offered through Coursera by IBM
 
-<H1> PLEASE READ </H1>
+<H1> IMPORTANT! PLEASE READ </H1>
+Coursera_Capstone Repository to store 3 Jupyter notebooks as submissions for the  Applied Data Science Capstone course offered through Coursera by IBM
+
 <H2> Week 3 Project </H2>
 <H3> 2 images, both maps, are located in below URLs 
 
